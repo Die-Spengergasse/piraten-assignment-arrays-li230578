@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48ae8de3-8df8-4b32-a660-f5a31bdd696c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/at/spengergasse/PiratTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/spengergasse/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/spengergasse/Pirat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/spengergasse/Pirat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/at/spengergasse/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/at/spengergasse/TestPirat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/at/spengergasse/TestSchiff.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +27,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2YR6TzzB4yzr4EvZ7Mxcl2AEmAq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,6 +44,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/georg/IdeaProjects/pos-java-kif-piratenschiff/src/main/java/at/spengergasse",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -142,6 +136,7 @@
       <updated>1700476057434</updated>
       <workItem from="1700476058826" duration="2171000" />
       <workItem from="1700491097927" duration="3862000" />
+      <workItem from="1700750158846" duration="2105000" />
     </task>
     <task id="LOCAL-00001" summary="first commit piraten">
       <option name="closed" value="true" />
